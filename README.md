@@ -4,6 +4,10 @@ In this section, i'm tyrng to do Exploratory Data Analysis in python. with Boost
 # Technical
 programming language = python. ver 3.9.7
 
+Seaborn Version: 0.11.2
+
+Matplotlib Version: 3.4.3
+
 # Content of Dataset
 In this dataset there is 24 column
 
