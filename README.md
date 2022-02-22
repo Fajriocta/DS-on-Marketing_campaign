@@ -1,5 +1,5 @@
 # EDA-Marketing_campaign
-In this section, i'm tyrng to do Exploratory Data Analysis in python. with Boost the profit of a marketing campaign
+In this section, i'm trying to do Exploratory Data Analysis in python. with Boost the profit of a marketing campaign
 
 # Technical
 programming language = python. ver 3.9.7
