@@ -2,6 +2,7 @@
 In this section, i'm trying to do Exploratory Data Analysis in python. with Boost the profit of a marketing campaign and do some various machine learning
 
 EDA_on_dataset1 = This data focuses on Exploratory Data Analysis
+
 EDA_on_dataset2 = In this data, tyring to figure the Machine Learning
 # Technical
 programming language = python. ver 3.9.7
