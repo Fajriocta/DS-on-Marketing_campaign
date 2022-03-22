@@ -1,5 +1,5 @@
-# EDA-Marketing_campaign
-In this section, i'm trying to do Exploratory Data Analysis in python. with Boost the profit of a marketing campaign
+# DS on Marketing_campaign
+In this section, i'm trying to do Exploratory Data Analysis in python. with Boost the profit of a marketing campaign and do some various machine learning
 
 # Technical
 programming language = python. ver 3.9.7
@@ -82,3 +82,13 @@ TotalofPurchases - amount of total purchases quantity
 3. Data Preprocessing
 
 4. EDA Conclusion
+
+# Machine Learning
+1.Penalized Regression
+
+2.K-NN Classification
+
+3.Random Forest
+
+4.K-Means Clustering
+
