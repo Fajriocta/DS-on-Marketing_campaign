@@ -1,5 +1,5 @@
 # DS on Marketing_campaign
-In this section, i'm trying to do Exploratory Data Analysis in python. with Boost the profit of a marketing campaign and do some various machine learning
+In this section, i'm trying to do Exploratory Data Analysis in python. with Boost the profit of a marketing campaign and do some machine learning, K-NN and clustering
 
 EDA_on_dataset1 = This data focuses on Exploratory Data Analysis
 
@@ -87,11 +87,8 @@ TotalofPurchases - amount of total purchases quantity
 4. EDA Conclusion
 
 # Machine Learning
-1.Penalized Regression
 
-2.K-NN Classification
+1.K-NN Classification
 
-3.Random Forest
-
-4.K-Means Clustering
+2.K-Means Clustering
 
