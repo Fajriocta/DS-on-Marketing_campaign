@@ -88,7 +88,5 @@ TotalofPurchases - amount of total purchases quantity
 
 # Machine Learning
 
-1.K-NN Classification
-
-2.K-Means Clustering
+1.K-Means Clustering
 
